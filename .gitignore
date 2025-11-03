@@ -1,0 +1,91 @@
+# YouTube Tagging Dataset Repository - .gitignore
+
+# Large data files (host on Zenodo instead)
+*.db
+*.sqlite
+*.sqlite3
+youtube_2006.db
+youtube_*.db
+
+# Large CSV exports
+**/videos.csv
+**/tags.csv
+**/video_tag_key.csv
+exports/csv/*.csv
+
+# JSONL exports (large files)
+**/videos.jsonl
+**/tags.jsonl
+**/video_tag_key.jsonl
+exports/jsonl/*.jsonl
+
+# Archives
+*.tar.gz
+*.zip
+*.7z
+*.rar
+archives/*.tar.gz
+archives/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Keep sample files (these are small)
+!data/samples/*.json
+!*_sample_*.json
+!*_sample_*.csv
+
+# Keep generated visualizations
+!docs/assets/images/visualizations/*.png
+
+# Keep analysis outputs
+!analysis/summary_statistics.json
+!analysis/*.json
+
+# Keep documentation
+!docs/*.html
+!docs/*.md

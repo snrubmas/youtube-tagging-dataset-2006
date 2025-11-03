@@ -1,0 +1,562 @@
+{
+  "basic_counts": {
+    "videos": 1092310,
+    "tags": 517008,
+    "video_tag_pairs": 7530904,
+    "unique_authors": 537246
+  },
+  "tags_per_video": {
+    "mean": 6.89,
+    "median": 6.0,
+    "mode": 1,
+    "min": 1,
+    "max": 60,
+    "std_dev": 4.84,
+    "distribution": {
+      "1": 118829,
+      "3": 110307,
+      "4": 104823,
+      "5": 96174,
+      "2": 90924,
+      "6": 87659,
+      "7": 78741,
+      "8": 65488,
+      "9": 56259,
+      "10": 47087,
+      "11": 39493,
+      "12": 34103,
+      "13": 29262,
+      "14": 26208,
+      "15": 24431,
+      "16": 22671,
+      "17": 21012,
+      "18": 15807,
+      "19": 11218,
+      "20": 6296
+    }
+  },
+  "videos_per_author": {
+    "mean": 2.03,
+    "median": 1.0,
+    "min": 1,
+    "max": 1976,
+    "std_dev": 5.82
+  },
+  "top_uploaders": [
+    {
+      "author": "rakary",
+      "videos": 1976
+    },
+    {
+      "author": "b1gbeeboo",
+      "videos": 988
+    },
+    {
+      "author": "expertvillage",
+      "videos": 910
+    },
+    {
+      "author": "reeallytease",
+      "videos": 769
+    },
+    {
+      "author": "Nyala2",
+      "videos": 754
+    },
+    {
+      "author": "SpikeBad",
+      "videos": 651
+    },
+    {
+      "author": "KevinChengFansClub",
+      "videos": 552
+    },
+    {
+      "author": "Cazi429",
+      "videos": 437
+    },
+    {
+      "author": "lisak926",
+      "videos": 395
+    },
+    {
+      "author": "elconquistador69",
+      "videos": 377
+    },
+    {
+      "author": "railfanca",
+      "videos": 358
+    },
+    {
+      "author": "TaucherNet",
+      "videos": 356
+    },
+    {
+      "author": "youli75",
+      "videos": 356
+    },
+    {
+      "author": "WildRoseNZ",
+      "videos": 349
+    },
+    {
+      "author": "SkankyDoll",
+      "videos": 348
+    },
+    {
+      "author": "RStrathfield",
+      "videos": 333
+    },
+    {
+      "author": "apsonman",
+      "videos": 330
+    },
+    {
+      "author": "damnsavage",
+      "videos": 330
+    },
+    {
+      "author": "MarvinMcGill",
+      "videos": 325
+    },
+    {
+      "author": "jk2125",
+      "videos": 297
+    }
+  ],
+  "top_tags": [
+    {
+      "tag": "black",
+      "count": 45978
+    },
+    {
+      "tag": "dance",
+      "count": 45025
+    },
+    {
+      "tag": "funny",
+      "count": 44800
+    },
+    {
+      "tag": "the",
+      "count": 37600
+    },
+    {
+      "tag": "music",
+      "count": 33215
+    },
+    {
+      "tag": "boy",
+      "count": 29454
+    },
+    {
+      "tag": "dancing",
+      "count": 28875
+    },
+    {
+      "tag": "live",
+      "count": 25807
+    },
+    {
+      "tag": "Black",
+      "count": 25088
+    },
+    {
+      "tag": "is",
+      "count": 23102
+    },
+    {
+      "tag": "of",
+      "count": 22702
+    },
+    {
+      "tag": "video",
+      "count": 22511
+    },
+    {
+      "tag": "boys",
+      "count": 21366
+    },
+    {
+      "tag": "awesome",
+      "count": 20385
+    },
+    {
+      "tag": "fall",
+      "count": 18957
+    },
+    {
+      "tag": "and",
+      "count": 18235
+    },
+    {
+      "tag": "The",
+      "count": 17811
+    },
+    {
+      "tag": "chris",
+      "count": 16728
+    },
+    {
+      "tag": "train",
+      "count": 16586
+    },
+    {
+      "tag": "rock",
+      "count": 15417
+    },
+    {
+      "tag": "2006",
+      "count": 14575
+    },
+    {
+      "tag": "comedy",
+      "count": 14426
+    },
+    {
+      "tag": "san",
+      "count": 14089
+    },
+    {
+      "tag": "bush",
+      "count": 13767
+    },
+    {
+      "tag": "like",
+      "count": 12582
+    },
+    {
+      "tag": "hot",
+      "count": 12080
+    },
+    {
+      "tag": "Chris",
+      "count": 12078
+    },
+    {
+      "tag": "in",
+      "count": 11835
+    },
+    {
+      "tag": "cool",
+      "count": 11630
+    },
+    {
+      "tag": "fun",
+      "count": 11540
+    },
+    {
+      "tag": "Live",
+      "count": 11386
+    },
+    {
+      "tag": "matt",
+      "count": 11171
+    },
+    {
+      "tag": "Dance",
+      "count": 11157
+    },
+    {
+      "tag": "hotel",
+      "count": 11115
+    },
+    {
+      "tag": "crazy",
+      "count": 10417
+    },
+    {
+      "tag": "love",
+      "count": 10393
+    },
+    {
+      "tag": "to",
+      "count": 10353
+    },
+    {
+      "tag": "metal",
+      "count": 10200
+    },
+    {
+      "tag": "training",
+      "count": 10054
+    },
+    {
+      "tag": "steve",
+      "count": 9994
+    },
+    {
+      "tag": "San",
+      "count": 9788
+    },
+    {
+      "tag": "Boy",
+      "count": 9714
+    },
+    {
+      "tag": "guitar",
+      "count": 9707
+    },
+    {
+      "tag": "yeah",
+      "count": 9705
+    },
+    {
+      "tag": "Music",
+      "count": 9604
+    },
+    {
+      "tag": "kevin",
+      "count": 9272
+    },
+    {
+      "tag": "french",
+      "count": 9150
+    },
+    {
+      "tag": "fight",
+      "count": 8977
+    },
+    {
+      "tag": "Bush",
+      "count": 8921
+    },
+    {
+      "tag": "sex",
+      "count": 8920
+    }
+  ],
+  "video_lengths": {
+    "mean_seconds": 157.42,
+    "mean_minutes": 2.62,
+    "median_seconds": 106,
+    "median_minutes": 1.77,
+    "min_seconds": 1,
+    "max_seconds": 32767,
+    "max_minutes": 546.12
+  },
+  "view_counts": {
+    "total_views": 2338524861,
+    "mean": 2159.77,
+    "median": 232.0,
+    "max": 8388607,
+    "percentile_90": 21.0,
+    "percentile_95": 10.0,
+    "percentile_99": 2.0
+  },
+  "ratings": {
+    "videos_with_ratings": 649732,
+    "mean_rating": 3.28,
+    "median_rating": 2.84,
+    "mean_rating_count": 13.56,
+    "median_rating_count": 3.0
+  },
+  "temporal": {
+    "earliest_upload": "2005-04-27",
+    "latest_upload": "2007-01-28",
+    "collection_days": 640,
+    "uploads_by_month": {
+      "2005-04": 3,
+      "2005-05": 2,
+      "2005-06": 90,
+      "2005-07": 134,
+      "2005-08": 463,
+      "2005-09": 876,
+      "2005-10": 2375,
+      "2005-11": 4927,
+      "2005-12": 8009,
+      "2006-01": 17848,
+      "2006-02": 24808,
+      "2006-03": 38160,
+      "2006-04": 44256,
+      "2006-05": 62957,
+      "2006-06": 83538,
+      "2006-07": 106335,
+      "2006-08": 124824,
+      "2006-09": 139375,
+      "2006-10": 187083,
+      "2006-11": 125911,
+      "2006-12": 92235,
+      "2007-01": 28101
+    }
+  },
+  "tag_characteristics": {
+    "mean_length": 7.41,
+    "median_length": 7.0,
+    "min_length": 0,
+    "max_length": 81,
+    "multi_word_count": 0,
+    "multi_word_percent": 0.0,
+    "with_special_chars": 6486
+  },
+  "tag_cooccurrence": [
+    {
+      "tag1": "music",
+      "tag2": "video",
+      "count": 9205
+    },
+    {
+      "tag1": "funny",
+      "tag2": "comedy",
+      "count": 6689
+    },
+    {
+      "tag1": "of",
+      "tag2": "the",
+      "count": 6259
+    },
+    {
+      "tag1": "black",
+      "tag2": "white",
+      "count": 5067
+    },
+    {
+      "tag1": "chili",
+      "tag2": "peppers",
+      "count": 4877
+    },
+    {
+      "tag1": "hot",
+      "tag2": "chili",
+      "count": 4834
+    },
+    {
+      "tag1": "cool",
+      "tag2": "awesome",
+      "count": 4804
+    },
+    {
+      "tag1": "hot",
+      "tag2": "peppers",
+      "count": 4703
+    },
+    {
+      "tag1": "red",
+      "tag2": "hot",
+      "count": 4610
+    },
+    {
+      "tag1": "black",
+      "tag2": "metal",
+      "count": 4574
+    },
+    {
+      "tag1": "red",
+      "tag2": "chili",
+      "count": 4520
+    },
+    {
+      "tag1": "red",
+      "tag2": "peppers",
+      "count": 4444
+    },
+    {
+      "tag1": "funny",
+      "tag2": "awesome",
+      "count": 4354
+    },
+    {
+      "tag1": "hip",
+      "tag2": "hop",
+      "count": 4265
+    },
+    {
+      "tag1": "hotel",
+      "tag2": "tokio",
+      "count": 4145
+    },
+    {
+      "tag1": "live",
+      "tag2": "music",
+      "count": 4091
+    },
+    {
+      "tag1": "Hotel",
+      "tag2": "Tokio",
+      "count": 4057
+    },
+    {
+      "tag1": "rock",
+      "tag2": "music",
+      "count": 3957
+    },
+    {
+      "tag1": "black",
+      "tag2": "the",
+      "count": 3799
+    },
+    {
+      "tag1": "funny",
+      "tag2": "stupid",
+      "count": 3734
+    },
+    {
+      "tag1": "boy",
+      "tag2": "out",
+      "count": 3514
+    },
+    {
+      "tag1": "fall",
+      "tag2": "out",
+      "count": 3431
+    },
+    {
+      "tag1": "black",
+      "tag2": "funny",
+      "count": 3407
+    },
+    {
+      "tag1": "black",
+      "tag2": "music",
+      "count": 3350
+    },
+    {
+      "tag1": "boy",
+      "tag2": "fall",
+      "count": 3323
+    },
+    {
+      "tag1": "is",
+      "tag2": "the",
+      "count": 3222
+    },
+    {
+      "tag1": "funny",
+      "tag2": "cool",
+      "count": 3173
+    },
+    {
+      "tag1": "funny",
+      "tag2": "fall",
+      "count": 3146
+    },
+    {
+      "tag1": "san",
+      "tag2": "francisco",
+      "count": 3138
+    },
+    {
+      "tag1": "Teen",
+      "tag2": "Titans",
+      "count": 3131
+    }
+  ],
+  "summary": {
+    "title": "YouTube Tagging Dataset (2006-2007)",
+    "subtitle": "A Historical Snapshot of Early YouTube Community Practices",
+    "highlights": [
+      "1,092,310 unique videos",
+      "517,008 unique tags",
+      "7,530,904 video-tag relationships",
+      "537,246 content creators",
+      "Collected over 640 days",
+      "Average 6.89 tags per video"
+    ],
+    "key_findings": [
+      "Most popular tag: 'black' (45,978 uses)",
+      "Most prolific uploader: 1,976 videos",
+      "0.0% of tags contain multiple words",
+      "Total accumulated views: 2,338,524,861"
+    ]
+  }
+}

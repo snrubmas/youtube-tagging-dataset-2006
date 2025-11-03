@@ -1,0 +1,76 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "YouTube Tagging Dataset (2006-2007)"
+abstract: "A historical collection of 1,092,310 YouTube videos with user-generated tags, collected between November 2, 2006 and January 28, 2007. This dataset captures organic folksonomy and tagging practices from YouTube's first year of operation, before the Google acquisition was finalized and before algorithmic recommendations became dominant."
+
+authors:
+  - family-names: Burns
+    given-names: Samuel A.
+    email: sburns@ischool.utexas.edu
+    affiliation: "School of Information, The University of Texas at Austin"
+    orcid: "https://orcid.org/YOUR-ORCID"
+  - family-names: Geisler
+    given-names: Gary
+    affiliation: "University of Washington"
+
+repository-code: "https://github.com/snrubmas/youtube-tagging-dataset-2006"
+url: "https://snrubmas.github.io/youtube-tagging-dataset-2006/"
+
+keywords:
+  - YouTube
+  - tagging
+  - folksonomy
+  - user-generated metadata
+  - social media
+  - video sharing
+  - information science
+  - digital libraries
+  - 2006
+  - historical dataset
+
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2025-01-15"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17508119"
+    description: "Zenodo DOI for the dataset"
+
+references:
+  - type: article
+    title: "Tagging Video: Conventions and Strategies of the YouTube Community"
+    authors:
+      - family-names: Geisler
+        given-names: Gary
+      - family-names: Burns
+        given-names: Sam
+    year: 2007
+    conference: "Proceedings of the Joint Conference on Digital Libraries (JCDL 2007)"
+    pages: 480
+    doi: "10.1145/1255175.1255279"
+  
+  - type: article
+    title: "Tagging Video: Conventions and Strategies of the YouTube Community"
+    authors:
+      - family-names: Geisler
+        given-names: Gary
+      - family-names: Burns
+        given-names: Sam
+    year: 2008
+    journal: "Bulletin of IEEE Technical Committee on Digital Libraries (TCDL)"
+    volume: 4
+    issue: 1
+
+preferred-citation:
+  type: dataset
+  title: "YouTube Tagging Dataset (2006-2007)"
+  authors:
+    - family-names: Burns
+      given-names: Samuel A.
+    - family-names: Geisler
+      given-names: Gary
+  year: 2025
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.17508119"
