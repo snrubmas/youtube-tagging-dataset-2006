@@ -278,10 +278,12 @@ For questions about:
 
 ## 🙏 Acknowledgments
 
-- **Gary Geisler**: Research collaboration and data collection
+- **Dr. Gary Geisler**: Research collaboration and data collection
 - **Dr. Randolph Bias**: Research advisor
+- **Dr. Andrew Dillon**: Research advisor
+- **Kai Mantsch**: Technical advisor
+- **Shane Williams**: Technical advisor
 - **The University of Texas at Austin**: School of Information support
-- **IBM Pervasive Computing Lab**: Research context
 
 ---
 
