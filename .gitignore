@@ -89,3 +89,5 @@ desktop.ini
 # Keep documentation
 !docs/*.html
 !docs/*.md
+.DS_Store
+**/.DS_Store
